@@ -1,6 +1,6 @@
 # How-To: Automating Tenant User Account Provisioning in Windows Azure Pack Integrated with ADFS
 
-The sample PowerShell scripts listed in this repository demonstrate how to automate creating and deleting user accounts in Windows Azure Pack (WAP) environments that are integrated with Active Directory Federation Services (ADFS).
+The sample Microsoft Windows PowerShell scripts listed in this repository demonstrate how to automate creating and deleting user accounts in Windows Azure Pack (WAP) environments that are integrated with Active Directory Federation Services (ADFS).
 
 ## Creating Tenant User Accounts
 The sample PowerShell script named **create_tenant_user.ps1** demonstrates how to perform the following primary actions:
