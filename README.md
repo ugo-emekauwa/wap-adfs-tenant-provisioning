@@ -17,7 +17,7 @@ The sample PowerShell script named **delete_tenant_user.ps1** demonstrates how t
 ## Requirements:
 1. Microsoft Windows PowerShell.
 2. Windows Azure Pack Scripts and Cmdlets for PowerShell, currently available at [http://go.microsoft.com/?linkid=9811175](http://go.microsoft.com/?linkid=9811175).
-3. System Center Virtual Machine Manager (SCVMM) Console.
+3. System Center Virtual Machine Manager (SCVMM) PowerShell cmdlets available by installing the SCVMM Console.
 4. Active Directory Module for Windows PowerShell.
 
 ## Author:
