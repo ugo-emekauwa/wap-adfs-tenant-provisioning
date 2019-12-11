@@ -11,7 +11,7 @@ The sample PowerShell script named **create_tenant_user.ps1** demonstrates how t
 ## Deleting Tenant User Accounts:
 The sample PowerShell script named **delete_tenant_user.ps1** demonstrates how to perform the following primary actions:
 1. Delete the user account and service plan subscription in Windows Azure Pack.
-2. Delete any cloud resources and virtual machines created or owned by the user account in System Center Virtual Machine Manager (SCVMM).
+2. Delete any cloud resources and virtual machines created or owned by the user account in System Center Virtual Machine Manager (SCVMM) managing Microsoft Hyper-V.
 3. Delete the user account in the local Active Directory.
 
 ## Requirements:
