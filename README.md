@@ -7,11 +7,12 @@ The sample PowerShell script named **create_tenant_user.ps1** demonstrates how t
 1. Create the user account in the local Active Directory.
 2. Create the user account in Windows Azure Pack.
 3. Subscribe the user account to a Windows Azure Pack service plan.
+4. Add the AD user account to the corresponding Windows Azure Pack user role created in System Center Virtual Machine Manager (SCVMM)
 
 ## Deleting Tenant User Accounts:
 The sample PowerShell script named **delete_tenant_user.ps1** demonstrates how to perform the following primary actions:
-1. Delete the user account and service plan subscription in Windows Azure Pack.
-2. Delete any cloud resources and virtual machines created or owned by the user account in System Center Virtual Machine Manager (SCVMM) managing Microsoft Hyper-V.
+1. Delete any cloud resources and virtual machines created or owned by the user account in System Center Virtual Machine Manager (SCVMM) managing Microsoft Hyper-V.
+2. Delete the user account and service plan subscription in Windows Azure Pack.
 3. Delete the user account in the local Active Directory.
 
 ## Requirements:
